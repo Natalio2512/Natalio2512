@@ -12,7 +12,7 @@
 - ???? How to reach me on 
 <a href="https://www.instagram.com/natalio_v12/" target="_blank">Instagram</a>, 
 <a href="https://twitter.com/<USERNAME_ANDA>"  target="_blank">Twitter</a>, 
-<a href="https://www.linkedin.com/in/Natalio Valentino/" target="_blank">LinkedIn</a>, and 
+<a href="https://www.linkedin.com/in/natalio-valentino-a87818312/" target="_blank">LinkedIn</a>, and 
 <a href="https://medium.com/@<USERNAME_ANDA>" target="_blank">Medium</a>
  
 <!---
