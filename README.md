@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Natalio Valentino
-- 👀 I'm interested in Software Engineering and Cloud Engineering 
-- 🌱 I’m currently learning Front-End Web Development Learning Path
-- 💞️ I'm looking to collaborate on Movie Catalogue project
+- 👀 I am interested in developing websites
+- 🌱 I’m currently learning Front-End & Back-End Web Development Learning Path
+- 💞️ Currently I am working on a "Capstone" project with my friend entitled (Bus Ticket Booking Website “EasyBusTix”)
 - 📫 How to reach me on 
 <a href="https://www.instagram.com/natalio_v12/" target="_blank">Instagram</a>, 
 <a href="https://twitter.com/<USERNAME_ANDA>"  target="_blank">Twitter</a>, 
